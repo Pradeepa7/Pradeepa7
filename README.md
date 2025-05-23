@@ -3,11 +3,11 @@
 <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="GitHub Banner" width="50%" />
 
 # 💫 About Me:
-💻 currently working on building my own portfolio webpage using the MERN stack <br>
-🎓 recently completed final exams in computer science at Government Arts College <br>
-👨🏼‍💻 learning full stack development and solving aptitude & reasoning problems to prepare for interviews <br>
-🧠 completed a 5-month MERN stack internship, worked on real-time projects like AI Assistant with User Authentication <br>
-🎨 passionate about drawing
+💻 currently working on building my own portfolio webpage. <br>
+🎓 completed BCA in computer science from Government Arts College. <br>
+👨🏼‍💻 learning full stack development and solving aptitude & reasoning problems. <br>
+🧠 completed a 5-month MERN stack internship, worked on real-time projects like [AI Assistant](https://novaguide.netlify.app/). <br>
+🎨 Fun fact: I love pencil art.
 
 
 ## 🌐 Socials:
