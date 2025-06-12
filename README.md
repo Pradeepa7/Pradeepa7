@@ -3,10 +3,10 @@
 <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="GitHub Banner" width="50%" />
 
 # 💫 About Me:
-💻 currently working on building my own portfolio webpage. <br>
-🎓 completed BCA in computer science from Government Arts College. <br>
-👨🏼‍💻 learning full stack development and solving aptitude & reasoning problems. <br>
-🧠 completed a 5-month MERN stack internship, worked on real-time projects like [AI Assistant](https://novaguide.netlify.app/). <br>
+💻 Here's my [portfolio](https://prathii.netlify.app/) <br>
+👨🏼‍💻 Learning full stack development and solving aptitude & reasoning problems. <br>
+🎓 Completed BCA in computer science from Government Arts College. <br>
+🧠 Completed 6 months MERN stack internship, worked on real-time projects like [AI Assistant](https://novaguide.netlify.app/). <br>
 🎨 Fun fact: I love pencil art.
 
 
@@ -20,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pradeepa7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pradeepa7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepa7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pradeepa7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
